@@ -1,6 +1,6 @@
-# UniLearn
+# EduLev
 
-UniLearn is an e-learning platform for college students that includes:
+EduLev is an e-learning platform for college students that includes:
 - Study Planner
 - Notes upload/download
 - PYQ section
@@ -12,4 +12,5 @@ UniLearn is an e-learning platform for college students that includes:
 - JavaScript
 
 ## Live Website
+https://vishnu-io.github.io/EduLev/
 
